@@ -1,6 +1,6 @@
 # Quantum Optimization for Nurse Scheduling Problem (NSP)
 
-This project explores the application of Quantum Optimization for solving scheduling problems. The code is designed to run on a D-Wave's QPU. Check out the project [report](https://github.com/ThomasLagkalis/QuantumOptimization-Scheduling/report.pdf).
+This project explores the application of Quantum Optimization for solving scheduling problems. The code is designed to run on a D-Wave's QPU. Check out the project [report](https://github.com/ThomasLagkalis/QuantumOptimization-Scheduling/blob/master/report.pdf).
 
 ## Dependencies
 
