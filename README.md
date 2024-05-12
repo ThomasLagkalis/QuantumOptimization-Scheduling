@@ -15,7 +15,7 @@ To run this project, you'll need the following dependencies:
 After you have installed all dependencies you can either download the .zip file manualy from GitHub or clone the repo with this command:
 
 ```console 
-https://github.com/ThomasLagkalis/QuantumOptimization-Scheduling.git
+git clone https://github.com/ThomasLagkalis/QuantumOptimization-Scheduling.git
 ```
 
 Now run the nurse_scheduling_problem.py. You must specify two parameters: the first parameter is the number of nurses and the second is the number of days for the schedule i.g. 2 nurses and 3 days. (note in your case it might be *python* instead of *python3*). 
