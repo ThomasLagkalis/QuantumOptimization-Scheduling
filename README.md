@@ -35,7 +35,7 @@ python3 nurse_scheduling_porblem.py 2 3 --hybrid
 
 After you run the programm the results should look something like this:
 
-![Programm results](images/results1.png)
+![Programm results](results1.png)
 
 
 
